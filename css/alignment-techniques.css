@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
-/*Tecnica de margin*/
 .wrapper {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
@@ -19,6 +18,9 @@
 	padding-top: 10px;
 	box-sizing: border-box;
 }
+
+
+/*Tecnica de margin*/
 /* .element1 {
 	background: papayawhip;
 	margin: 0;
@@ -55,6 +57,8 @@
 	background: lightcyan;
 	margin: 120px 0 0 auto;
 } */
+
+
 /*tecnica de line-heigth*/
 .container1 {
 	text-align: left;
